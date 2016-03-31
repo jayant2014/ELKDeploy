@@ -1,0 +1,3 @@
+By default, Kibana connects to the Elasticsearch instance running on localhost. To connect to a different Elasticsearch instance, modify the Elasticsearch URL in the kibana.yml
+By default, Kibana guesses that you’re working with data being fed into Elasticsearch by Logstash. If that’s the case, you can use the default logstash-* as your index pattern
+

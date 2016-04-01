@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# This script is for deploying elasticsearch on your host as a service
 . ../utils/MainUtils.sh
 
 CONFIG=../config/elastic.cfg
